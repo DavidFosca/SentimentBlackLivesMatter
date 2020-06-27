@@ -1,6 +1,6 @@
 # Análisis de Sentimientos en Twitter: #BlackLivesMatter
 
-Drive con el proyecto completo incluyendo los tweets descargados en formato csv: https://drive.google.com/file/d/1bO2ApwriKeNe1u3ZK3QTI4iWivC-M38-/view?usp=sharing
+Drive con el proyecto completo **incluyendo los tweets descargados en formato csv**: https://drive.google.com/file/d/1bO2ApwriKeNe1u3ZK3QTI4iWivC-M38-/view?usp=sharing
 
 Este proyecto tiene como objetivo explorar las diversas caras que un movimiento de protesta social como "Black Lives Matter" puede tener en las redes sociales, específicamente en Twitter. Se busca conocer el nivel de complejidad que este movimiento puede tener en base a los diversos temas y emociones que los usuarios expresan utilizando el hashtag. A diferencia de un movimiento basado en violencia que se caracteriza por no generar críticas constructivas, se desea probar que este movimiento en las redes sociales es complejo y que sus miembros no solo predican con el odio (como por ejemplo los partidarios de las protestas violentas alrededor de Estados Unidos), si no que muestran su descontento, tristeza y esperanza por un cambio por el que luchan.
 
