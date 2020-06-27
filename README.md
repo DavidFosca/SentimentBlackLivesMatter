@@ -1,4 +1,4 @@
-# SentimentBlackLivesMatter
+# Análisis de Sentimientos en Twitter: #BlackLivesMatter
 
 Drive con el proyecto completo incluyendo los tweets descargados en formato csv: https://drive.google.com/file/d/1bO2ApwriKeNe1u3ZK3QTI4iWivC-M38-/view?usp=sharing
 
