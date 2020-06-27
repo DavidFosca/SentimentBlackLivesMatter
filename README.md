@@ -7,3 +7,6 @@ Para recolectar los datos de Twitter, se utilizó la librería GetOldTweets3, qu
 
 Se utilizó la herramienta de análisis de sentimientos: **VADER (Valence Aware Dictionary y sEntiment Reasoner)**. Esta es una herramienta que se basa en analizar la combinación del léxico (palabras), que generalmente se etiquetan de acuerdo con su orientación semántica como positivas o negativas, para obtener la polaridad de un texto o mensaje. VADER ha sido especialmente entrenada con textos de redes sociales y se ha encontrado que es bastante exitoso cuando se trata de textos en redes sociales, editoriales, así como reseñas de películas y productos.
 Repositorio: https://github.com/cjhutto/vaderSentiment
+
+
+
